@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  position: fixed;
+  height: 100px;
+  bottom: 62px;
+  left: 6px;
+  right: 6px;
+  background-color: red;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
