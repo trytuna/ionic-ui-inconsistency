@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-ui-inconsistency",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
